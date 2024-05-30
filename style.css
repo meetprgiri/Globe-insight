@@ -23,7 +23,7 @@ main {
 }
 
 .skeleton {
-  opacity: 0.7;
+  opacity: 0.9;
   animation: skeletonLoading 1s linear infinite alternate;
 }
 .skeleton-text {
