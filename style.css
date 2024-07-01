@@ -190,3 +190,12 @@ a {
     flex-direction: column;
   }
 }
+
+@media (max-width: 406px) {
+  .search-container {
+    width: 109%;
+  }
+  .filter-by-region {
+    width: 335px;
+  }
+}
